@@ -1,0 +1,6 @@
+pytest
+mypy
+flake8
+black
+cryptography
+matplotlib
